@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Website design
 - 🤔 I’m looking for help with Project
 - 💬 Ask me about Website design
-- 📫 How to reach me: +998-50-577-57-24
+- 📫 How to reach me: +998-50-577-57-24,  mammatjumayevmuhammadjon@gmail.com
 - 😄 Pronouns: boy
 - ⚡ Fun fact: I really like web development
 -->
