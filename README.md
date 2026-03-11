@@ -20,7 +20,7 @@ Biz hozir barchamiz GitHubda faol ishlamoqdamiz, barcha o‘quvchilar bilan.
 <h2 align="center">🛠 Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,go,git,github,vscode,docker,kubernetes,aws,pnpm,mysql,postgres,jenkins,kafka,nginx,swift,apple,ps,ai&perline=14" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,py,go,git,github,vscode,ai&perline=14" width="100%" />
 </p>
 
 <div align="center">
