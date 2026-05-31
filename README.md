@@ -18,10 +18,6 @@ Hi! I'm Muhammadjon, a passionate Python Developer from Uzbekistan. I am deeply 
 
 ### 📊 GitHub Analytics (Gold & Red Accent)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadjon011&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ffd700&icon_color=ff0000&text_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadjon011&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffd700&text_color=ffffff" height="150" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadjon011&theme=react-dark&bg_color=0d1117&color=ff0000&line=ffd700&point=ffffff&area=true&hide_border=true" width="100%" />
