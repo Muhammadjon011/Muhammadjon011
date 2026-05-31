@@ -16,14 +16,6 @@ Hi! I'm Muhammadjon, a passionate Python Developer from Uzbekistan. I am deeply 
 
 ---
 
-### 🛠️ Tech Arsenal (Premium Dark Mode)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=000080" />   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=8B0000" />   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=000033" />   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=1a1a1a" />
-</p>
-
----
-
 ### 📊 GitHub Analytics (Gold & Red Accent)
 
 <p align="left">
