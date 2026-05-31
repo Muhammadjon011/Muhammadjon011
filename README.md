@@ -55,6 +55,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadjon011&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffcc" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadjon011&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🐍 SNAKE ANIMATION
